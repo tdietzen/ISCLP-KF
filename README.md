@@ -1,5 +1,5 @@
-# ISCLP-KF
-Integrated sidelobe cancellation and linear prediction Kalman filter for joint multi-microphone speech dereverberation, interfering speech cancellation, and noise reduction.
+# LC-ISCLP-KF
+Low-complexity ISCLP Kalman filters.
 
 See main.m for further details.
 
