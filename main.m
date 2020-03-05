@@ -6,16 +6,16 @@
 %
 % If you find it useful, please cite:
 %
-% [1] T. Dietzen, S. Doclo, M. Moonen, and T. van Waterschoot, ?Integrated
-% sidelobe cancellation and linear prediction Kalman filter for joint
-% multimicrophone dereverberation, interfering speech cancellation, and
-% noise reduction,? ESAT-STADIUS Tech. Rep. TR 19-70, KU Leuven, Belgium,
-% submitted for publication, June 2019.
-% [2] T. Dietzen, S. Doclo, M. Moonen, and T. van Waterschoot, ?Square
-% rootbased multi-source early PSD estimation and recursive RETF update in
-% reverberant environments by means of the orthogonal Procrustes problem,?
-% ESAT-STADIUS Tech. Rep. TR 19-69, KU Leuven, Belgium, submitted for
-% publication, June 2019.
+% [1] T. Dietzen, S. Doclo, M. Moonen, and T. van Waterschoot, “Integrated
+% sidelobe cancellation and linear prediction Kalman filter for joint 
+% multimicrophone dereverberation, interfering speech cancellation, and 
+% noise reduction,” IEEE/ACM Trans. Audio, Speech, Lang. Process., vol. 28,
+% pp. 740 – 754, Jan. 2020.
+% [2] T. Dietzen, S. Doclo, M. Moonen, and T. van Waterschoot, “Square 
+% root-based multi-source early PSD estimation and recursive RETF update
+% in reverberant environments by means of the orthogonal Procrustes
+% problem,” IEEE/ACM Trans. Audio, Speech, Lang. Process., vol. 28,
+% pp. 755 – 769, Jan. 2020.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % Example of the ISCLP Kalman filter as described in [1]. The code in
